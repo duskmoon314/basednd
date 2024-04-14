@@ -1,0 +1,2 @@
+[diff "sqlite3"]
+textconv = sqlte3 $1 .dump
